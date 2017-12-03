@@ -1,6 +1,6 @@
 using System.Linq;
 
-namespace ConsoleApplication1
+namespace ProblemSets
 {
     public static class Day1
     {

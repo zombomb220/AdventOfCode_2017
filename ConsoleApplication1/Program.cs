@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace ProblemSets
 {
     class Program
     {
@@ -11,6 +8,12 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Day 1.1: " + Day1.FirstProblem.Run());
             Console.WriteLine("Day 1.2: " + Day1.SecondProblem.Run());
+            Console.WriteLine();
+
+            Console.WriteLine("Day 2.1: " + Day2.FirstProblem.Run());
+            Console.WriteLine("Day 2.2: " + Day2.SecondProblem.Run());
+            Console.WriteLine();
+
             Console.Read();
         }
     }
